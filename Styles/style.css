@@ -14,11 +14,13 @@
     width: 300px;
     position: relative;
     float: left;
+    margin-right: 25px;
 }
 .prophets{
     width: 300px;
     position: relative;
     float: left;
+    margin-right: 25px;
 }
 /*main{
     display: grid;
@@ -37,19 +39,26 @@
     width: 300px;
     position: relative;
     float: left;
+    margin-right: 25px;
 }
 .wedding{
     width: 200px;
     position: relative;
     float: left;
+    margin-right: 25px;
 }
 .temple{
     width: 300px;
     position: relative;
     float: left;
+    margin-right: 25px;
 }
 .family{
     width: 300px;
     position: relative;
     float: left;
+    margin-right: 25px;
+}
+main{
+    margin: 25px;
 }

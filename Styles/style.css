@@ -80,3 +80,15 @@ main{
     float: left;
     margin-right: 25px;
 }
+.mom{
+    width: 250px;
+    position: relative;
+    float: left;
+    margin-right: 25px;
+}
+.dad{
+    width: 250px;
+    position: relative;
+    float: left;
+    margin-right: 25px;
+}
